@@ -1,3 +1,1 @@
-This is another test.
-
-Hi again.
+This is another document.
